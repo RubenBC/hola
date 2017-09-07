@@ -1,0 +1,15 @@
+
+              08:00:16     07 Sep 2017
+     WARNING  Se inicia el script
+
+              08:00:28     07 Sep 2017
+     WARNING  Post de control a la variable c
+
+              08:00:38     07 Sep 2017
+     ERROR    Se envia la peli 'http://tumejorserie.com/descargar/index.php?link=torrents/095222.torrent'
+
+              08:00:48     07 Sep 2017
+     WARNING  Post de control coincide con el post[i]
+
+              08:00:48     07 Sep 2017
+     WARNING  FINALIZADO
